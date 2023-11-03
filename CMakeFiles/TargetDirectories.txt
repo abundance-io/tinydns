@@ -1,0 +1,3 @@
+/home/abundance/random_projects/tinydns/CMakeFiles/tinydns.dir
+/home/abundance/random_projects/tinydns/CMakeFiles/edit_cache.dir
+/home/abundance/random_projects/tinydns/CMakeFiles/rebuild_cache.dir
