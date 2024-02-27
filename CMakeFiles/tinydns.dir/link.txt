@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/tinydns.dir/main.cpp.o -o tinydns 
